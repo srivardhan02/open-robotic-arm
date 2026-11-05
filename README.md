@@ -1,7 +1,7 @@
 # Robotic Arm Description (ROS 2)
 
 <p align="center">
-  <img src="images/robotic_arm_banner.png"
+  <img src="images/robotic_arm.png"
        alt="Robotic Arm Description"
        width="100%">
 </p>
