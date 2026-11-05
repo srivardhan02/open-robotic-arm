@@ -1,4 +1,6 @@
 # Robotic Arm Description (ROS 2)
+![Uploading image.png…]()
+
 
 A ROS 2 description package for a CAD-derived robotic arm. It includes the URDF model, STL visual/collision meshes, and an RViz configuration for visualization.
 
